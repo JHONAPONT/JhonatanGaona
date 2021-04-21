@@ -6,24 +6,25 @@ title: Jhonatan Gaona
 superuser: true
 
 # Role/position/tagline
-role: Master in Business Economics
+role: Mtro en Negocios y Estudios Economicos (MBE)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universidad de Guadalajara
+  url: http://www.cucea.udg.mx
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Una persona llena de intereses y dudas intelectuales que aspira a cambiar el actual orden de convivencia social. 
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+intereseses:
+- Economia de los negocios.
+- Analitica para negocios.
+- Evaluación de impacto de programas gubernamentales.
+ 
 
 # Education to show in About widget
-education:
+educación:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
