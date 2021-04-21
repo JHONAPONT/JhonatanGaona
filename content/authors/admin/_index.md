@@ -24,17 +24,17 @@ interests:
  
 
 # Education to show in About widget
-educacation:
+education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Mtro en Negocios y Estudios Economicos. 
+    institution: Universidad de Guadalajara.
+    year: 2020
+  - course: Lic. en Ciencia Políticia y Admnistración Pública.
+    institution: Universidad Nacional Autónoma de México.
+    year: 2015
+  - course: Lic. en Negocios Internacionales
+    institution: Instituto Politecnico Nacional.
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
