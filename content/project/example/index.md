@@ -31,6 +31,8 @@ url_video: ""
 slides: example
 ---
 
-Ofrecemos los servicios de consultoria
+Ofrecemos los servicios de consultoria para negocios en las siguientes tematicas. 
 
-1. 
+1. Economia del negocio. 
+   - Estructura de costos de los productos. 
+   -   
