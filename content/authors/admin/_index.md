@@ -17,14 +17,14 @@ organizations:
 bio: Una persona llena de intereses y dudas intelectuales que aspira a cambiar el actual orden de convivencia social. 
 
 # Interests to show in About widget
-intereseses:
+interests:
 - Economia de los negocios.
 - Analitica para negocios.
 - Evaluación de impacto de programas gubernamentales.
  
 
 # Education to show in About widget
-educación:
+educacation:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
